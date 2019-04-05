@@ -1,0 +1,16 @@
+/**
+Revised by archvillains
+Date: January 18, 2019
+**/
+.word--kidnap {
+	font-family: 'Nanum Gothic Coding', monospace; /*'Days One*/ /*default*/
+	font-size: 9vw;
+	font-weight: 400;
+	color: #ffffff; /*main text color*/
+}
+
+.word--kidnap span {
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: 100%;
+}
